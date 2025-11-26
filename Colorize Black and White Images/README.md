@@ -90,9 +90,4 @@ Pillow==10.0.0
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 🙏 Acknowledgments
-
-- The pre-trained model is based on the work of Richard Zhang et al. (2016) - [Colorful Image Colorization](https://richzhang.github.io/colorization/)
-- Thanks to the OpenCV and Streamlit communities for their amazing tools
-
 ---
